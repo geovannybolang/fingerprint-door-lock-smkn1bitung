@@ -12,5 +12,5 @@
  - Breadboard 
  - Jumper cable
  - Power Supply 12V DC 1A
- - Mini PC Case (Customize Button Power for Unlock)
+ - Mini PC Case (Customize Power Button for Unlock)
  - Jack DC Male & Female
